@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rodridavia
+- 👋 Hi, I’m Rodrigo Davia Sanz.
 - 👀 I’m interested in android/ios develop, electronics, web developing (fullstack) and software develop.
 - 🌱 I’m currently learning about all aspects of TI and everything that has to do with programming interests me. 
 - 💞️ I’m looking to collaborate on any type of the terms I have told in 2 lines up.
